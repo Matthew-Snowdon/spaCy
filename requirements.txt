@@ -1,0 +1,8 @@
+this project requires you to have the python NLP module spaCy installed, you can do this by running the following commands:
+
+pip install -U pip setuptools wheel
+pip install -U spacy
+python -m spacy download en_core_web_sm
+
+if you get stuck a great website is:
+https://spacy.io/usage
